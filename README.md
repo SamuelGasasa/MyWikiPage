@@ -1,2 +1,2 @@
 # MyWikiPage
-Wiki Page
+My first wiki project
