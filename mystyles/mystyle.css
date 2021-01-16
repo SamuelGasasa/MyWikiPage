@@ -84,6 +84,7 @@ li:hover {
 @keyframes NavHover {
   100% {
     background-color: blue;
+    color: white;
   }
 }
 img {
