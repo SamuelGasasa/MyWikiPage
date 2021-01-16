@@ -27,10 +27,19 @@ nav {
 nav ul {
   list-style-type: none;
   text-align: center;
+
+  margin: 0;
+  padding: 0;
 }
 nav li {
+  background-color: green;
   display: inline;
+  padding: 10px;
+  margin-left: 20px;
+  border-style: solid;
+  border-radius: 20%;
 }
 nav a {
   text-decoration: none;
+  color: white;
 }
