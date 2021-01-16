@@ -43,3 +43,10 @@ nav a {
   text-decoration: none;
   color: white;
 }
+body {
+  background: url(https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png);
+  /* NEED TO FIX */
+}
+.ptext {
+  size: 15em;
+}
